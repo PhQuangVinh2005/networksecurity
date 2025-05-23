@@ -1,6 +1,2 @@
 venv
 .env
-.github
-__pycache__
-
--e .
